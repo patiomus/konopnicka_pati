@@ -1,0 +1,11 @@
+{
+    "telegram": {
+        "bot_token": "6201554253:AAGqZIYvSqTXojSqrW5EPQs0kq1vta84TkM",
+        "bot_chatID": 0
+    },
+    "location": {
+        "lat": 54.378204,
+        "long": 18.609183,
+        "range": 2
+    }
+}
